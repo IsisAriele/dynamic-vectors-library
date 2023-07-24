@@ -1,3 +1,6 @@
+## Vetor dinâmico
+
+Implementação da biblioteca de funções para manipulação de um vetor dinâmico de números inteiros. São duas bibliotecas desenvolvidas, uma implementada com alocação dinâmica de arrays e outra implementada com lista ligada.
 ## Executando
 
 Para compilar os testes, utilize o seguinte formato:
